@@ -23,9 +23,8 @@ const MySkills = () => {
             MY <span className="text-red">SKILLS</span>
           </p>
           <LineGradient width="w-1/3" />
-          <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+          <p className="mt-7">
+            Hello World , Here i will list some of My Skills as a Web Developer !!
           </p>
         </motion.div>
 
@@ -65,15 +64,18 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Experience
+                Web Experience
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+          - Proficiency in JavaScript and HTML/CSS <br></br>
+          - Experience with React and its ecosystem, including React Router, Redux, and React Hooks<br></br>
+          - Understanding of component-based architecture and state management<br></br>
+          - Understanding of responsive design and cross-browser compatibility<br></br>
+          - Knowledge of accessibility and SEO best practices<br></br>
+          - Ability to work with RESTful APIs and integrate with back-end systems<br></br>
           </p>
         </motion.div>
 
@@ -93,16 +95,17 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Innovative
+                Web Design
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+            - Design and implementation of user-friendly, visually appealing, and responsive interfaces using React components<br></br>
+            - Ability to translate designs into React code, using CSS and JavaScript<br></br>
+            - Understanding of design principles, such as typography, color theory, and layout<br></br>
+            - Experience with design tools such as Sketch, Adobe XD, or Figma<br></br>
+            - Ability to create animations and interactivity using React and CSS<br></br>
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -127,10 +130,12 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+          - Ability to conceptualize and envision solutions to complex problems<br></br>
+          - Creative thinking and problem-solving skills to develop new and innovative solutions<br></br>
+          - Ability to think outside the box and find unique solutions to challenges<br></br>
+          - Experience with prototyping and testing new ideas<br></br>
+          - Ability to imagine and plan for the future, considering long-term implications of design and development decisions<br></br>
+     <end-user>  </end-user>
           </p>
         </motion.div>
       </div>
